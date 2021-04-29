@@ -185,7 +185,7 @@ MATLAB 做的图必须修一修才能用，这里推荐我国赛用的插件 [zt
 ### Zhuoer Hu
 
 > 西安交通大学 信息与计算数学 本科在读
-### Asterisk(Fan Guofan)
+### Guofan Fan
 
 > 西安交通大学 生物技术(生物信息学方向) 本科在读
 
