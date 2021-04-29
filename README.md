@@ -22,7 +22,7 @@
 
 > 由于三天时间真的很有限（最后一分钟都还在改），我们后面发现论文中有不少小错误。后面有时间（老鸽子了）会更新更正版本。
 
-[Paper 全文](.pdf/2105298.pdf)
+[Paper 全文](./figure/2105298.pdf)
 ## Code
 
 [Source code](./code/code.ipynb)
