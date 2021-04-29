@@ -32,6 +32,8 @@
 
 [Source code](./code/code.ipynb)
 
+网页查看( Gitee Pages 被封了只能用 Github Pages 稍微有点慢等一等): [Source code Web](https://chaoers.github.io/icm2021-2105298-finalist/)
+
 ### About Data
 
 - 在`data`文件夹下,`source_data`为 ICM 官方数据
