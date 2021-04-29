@@ -4,13 +4,15 @@
 
 > 打数模从大一一直打到大三，终于在最后一次打了个像样的成绩出来。想留点东西纪念一下三年的数模，和队友商量了一下决定把这次美赛的源码开源一下，于是有了这个仓库。
 
-本仓库提供了 ICM2021 Finalist Team 2105298 的论文和源代码等文件供大家学习交流。
+本仓库提供了 ICM2021 D Problem Finalist Team 2105298 的论文和源代码等文件供大家学习交流。
 
 目前我这里的源码只有大部分模型和作图部分，`ARIMA` 、 `分析模型` 和 `部分数据处理` 等是由我的队友完成，我也会邀请他们来完善这个仓库~
 
 由于经过的时间太长且三天的时间很紧，我们只能尽力复原所有代码和操作，某些代码/操作并没有做记录，这里说声抱歉。
 
 如果你有疑问的话，欢迎提issue或给我发邮件[fanguofan@asteriscum.cn](mailto:fanguofan@asteriscum.cn)。
+
+> issue 请到 Github 仓库提或者直接发邮件给我
 
 文末也会有数模的一些小小经验和相关资源的推荐。
 
@@ -23,6 +25,9 @@
 > 由于三天时间真的很有限（最后一分钟都还在改），我们后面发现论文中有不少小错误。后面有时间（老鸽子了）会更新更正版本。
 
 [Paper 全文](./figure/2105298.pdf)
+
+关于论文排版请看[排版部分](###排版)
+
 ## Code
 
 [Source code](./code/code.ipynb)
@@ -66,6 +71,8 @@
 > 持续更新中...不妨点个Star收藏一下
 > 
 > 如果你还有其他需要，欢迎提issue或给我发邮件[fanguofan@asteriscum.cn](mailto:fanguofan@asteriscum.cn)，我会尽量更新
+> 
+> issue 请到 Github 仓库提或者直接发邮件给我
 
 ### Books
 
@@ -160,6 +167,13 @@ MATLAB 做的图必须修一修才能用，这里推荐我国赛用的插件 [zt
 > 把酒祝东风
 >
 > 且共从容
+
+## Mirror
+
+- 本项目原始仓库为: [Github](https://github.com/chaoers/icm2021-2105298-finalist)
+- 国内镜像仓库为: [Gitee](https://gitee.com/chaoers/icm2021-2105298-finalist)
+
+> issue 请到 Github 仓库提或者直接发邮件给我
 ## Contributers
 
 ### Xiyan Li
